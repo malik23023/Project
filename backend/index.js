@@ -21,7 +21,7 @@ app.use(bodyParser.json())
 app.use('/users', router);
 
 app.get('/', (req, res) => {
-    res.send('Hello Universe!')
+    res.send('Hello Universe! hiiiii ')
 })
 
 app.get('/todos', (req, res) => {
