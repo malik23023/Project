@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.NewTable{
+  background-color: #61dafb;
+  text-align: center;
+  height: 30px;
+  width: 1000px;
+  padding: 100px;
+}
